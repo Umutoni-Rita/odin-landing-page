@@ -21,7 +21,7 @@ nav{
 
 }
 nav .logo{
-    font-weight: bolder;
+    font-weight: bold;
     font-size: 24px;
 }
 
@@ -118,7 +118,7 @@ figure img{
 footer{
     background-color: #1F2937;
     color: white;
-    padding: 5%;
+    padding: 3%;
     text-align: center;
 }
 
